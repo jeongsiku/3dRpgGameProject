@@ -1,0 +1,598 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1660457962932552, "dur":661, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457962933217, "dur":1865, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1660457962935101, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1660457962935116, "dur":455, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1660457962935593, "dur":415, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457962936008, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963514985, "dur":116, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515101, "dur":178, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515279, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515281, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515288, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515289, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515294, "dur":12, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515306, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515313, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515314, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515319, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515319, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515325, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515326, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515329, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515330, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515335, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515336, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515341, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515342, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515346, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515347, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515351, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515352, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515356, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515357, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515362, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515362, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515366, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515368, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515371, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515372, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515377, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515382, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963515390, "dur":858, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1660457962935635, "dur":377, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962936013, "dur":3838, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962939859, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660457962939860, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962939912, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660457962939914, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962940034, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962941091, "dur":5140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660457962946235, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1660457962946383, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962946440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457962946513, "dur":183374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1660457963129985, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963130004, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963130090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963130097, "dur":19334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963149449, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963149460, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963149519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963149527, "dur":28368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963177917, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963177935, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963177994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963178003, "dur":22119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963200142, "dur":57284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963257427, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963257626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963257635, "dur":1382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963259033, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963259050, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963259108, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660457963259115, "dur":97859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660457963357004, "dur":157998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962935661, "dur":354, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962936016, "dur":3853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962939870, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1660457962940017, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962940137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962942146, "dur":5517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1660457962947806, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1660457962948007, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962948078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457962948084, "dur":64181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1660457963012363, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963012380, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963012449, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963012456, "dur":77588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963090059, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963090070, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963090130, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963090136, "dur":31042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963121193, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963121205, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963121260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963121267, "dur":35297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963156594, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963156607, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963156699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963156727, "dur":22589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963179332, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963179344, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963179429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963179436, "dur":38397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963217854, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963217868, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963217933, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963217940, "dur":69625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660457963287583, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963287599, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963287604, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963289190, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963289205, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963289210, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963291120, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963291137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963291143, "dur":4124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963295295, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963295315, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963295323, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963297010, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1660457963297188, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963297308, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963297321, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1660457963298590, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1660457963299313, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963299401, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963299410, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1660457963300435, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963300455, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963300460, "dur":11866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1660457963312355, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1660457963312381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963312394, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1660457963314144, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963314168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963314211, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963315663, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1660457963315682, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963315693, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1660457963317305, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963317330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660457963317342, "dur":25760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1660457963343119, "dur":171874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457962935684, "dur":335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457962936019, "dur":3842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457962939863, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1660457962940181, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457962940296, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457962955134, "dur":50597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1660457963005897, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963005919, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963006018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963006335, "dur":35934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963042292, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963042366, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963042512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963042522, "dur":64418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963106956, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963106967, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963107426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963107433, "dur":18950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963126403, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963126415, "dur":321, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963126743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963126752, "dur":44448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963171218, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963171231, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963171343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963171351, "dur":46785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963218149, "dur":183283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963401432, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963401579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660457963401588, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660457963402682, "dur":112315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962935705, "dur":318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962936023, "dur":3833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962939860, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1660457962940060, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962940206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962948202, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1660457962949995, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660457962950096, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962950149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660457962950153, "dur":409571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660457963359847, "dur":155155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962935729, "dur":297, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962936026, "dur":3831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962939860, "dur":510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1660457962940370, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962940444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962942013, "dur":6902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1660457962948965, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457962949055, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962949114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457962949480, "dur":57311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963006854, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963006874, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963006930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963006936, "dur":20715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963027670, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963027685, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963027746, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963027753, "dur":24703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963052474, "dur":110312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963162787, "dur":2110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963164905, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963164915, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963167448, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963167460, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963167545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963167552, "dur":21968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963189539, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963189551, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963189634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963189642, "dur":44640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963234295, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963234306, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963234360, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660457963234365, "dur":132729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660457963367117, "dur":147872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457962935747, "dur":283, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457962936030, "dur":3825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457962939860, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1660457962940098, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457962940219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457962948318, "dur":57594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1660457963006016, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963006035, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963006100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963006354, "dur":36595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963042966, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963042982, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963043041, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963043079, "dur":29643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963072739, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963072753, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963072822, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963072830, "dur":121036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963193888, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963193902, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963193963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963193970, "dur":40194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963234182, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963234194, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963234254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660457963234262, "dur":204506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660457963438786, "dur":76206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962935769, "dur":265, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962936034, "dur":3826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962939861, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1660457962940075, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962940173, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962944819, "dur":5946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1660457962950863, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1660457962950963, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962951034, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457962951039, "dur":56230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1660457963007336, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963007351, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963007426, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963007433, "dur":28857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963036311, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963036324, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963036416, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963036424, "dur":51706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963088149, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963088162, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963088219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963088228, "dur":19230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963107472, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963107483, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963107559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963107564, "dur":36786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963144370, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963144382, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963144468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963144476, "dur":42792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963187289, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963187303, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963187368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963187377, "dur":44840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963232239, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963232262, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963232452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963232460, "dur":66282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660457963298758, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.resource" }}
+,{ "pid":12345, "tid":7, "ts":1660457963298774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963298783, "dur":24024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.resource" }}
+,{ "pid":12345, "tid":7, "ts":1660457963322834, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1660457963322860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963322871, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1660457963324241, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1660457963324265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963324364, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1660457963325743, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1660457963325856, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963325907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660457963325912, "dur":17339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1660457963343267, "dur":171716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962935785, "dur":252, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962936037, "dur":3821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962939859, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1660457962940290, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962940362, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962941975, "dur":6696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1660457962948756, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1660457962948887, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962948979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962948987, "dur":1877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1660457962950957, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG.exe" }}
+,{ "pid":12345, "tid":8, "ts":1660457962951454, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962951539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457962951543, "dur":60401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG.exe" }}
+,{ "pid":12345, "tid":8, "ts":1660457963011966, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963011987, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963012056, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963012064, "dur":22532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963034615, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963034629, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963034749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963034756, "dur":22932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963057706, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963057718, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963057777, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963057808, "dur":19400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963077227, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963077242, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963077329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963077337, "dur":37577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963114934, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963114951, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963115175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963115183, "dur":25764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963140969, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963140981, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963141046, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963141054, "dur":25777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963166851, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963166866, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963166947, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963166954, "dur":34086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963201062, "dur":116712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963317775, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963317932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963317940, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660457963319755, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1660457963319776, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963319784, "dur":4975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1660457963324775, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1660457963324792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660457963324797, "dur":17956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1660457963342777, "dur":172209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457962935802, "dur":238, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457962936040, "dur":3839, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457962939879, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1660457962940144, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457962940234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457962951649, "dur":54060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1660457963005837, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963005862, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963005930, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963006284, "dur":55107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963061407, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963061419, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963061475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963061483, "dur":45402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963106904, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963106917, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963107118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963107130, "dur":20372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963127517, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963127529, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963127584, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963127590, "dur":47487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963175092, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963175103, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963175163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963175169, "dur":21590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963196782, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963196797, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963196856, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963196864, "dur":62607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963259485, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963259497, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963259551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660457963259556, "dur":255389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660457963514960, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":9, "ts":1660457963514961, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457962935824, "dur":219, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457962936043, "dur":3817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457962939863, "dur":498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1660457962940361, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457962940442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457962942034, "dur":186270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1660457963128400, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963128416, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963128501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963128508, "dur":35462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963163993, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963164007, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963164101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963164109, "dur":25639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963189764, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963189777, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963189834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963189841, "dur":109969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660457963299829, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1660457963299847, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660457963299851, "dur":175858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1660457963475729, "dur":39271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457962935838, "dur":206, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457962936045, "dur":3834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457962939879, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1660457962940225, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457962940341, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457962955623, "dur":50698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1660457963006406, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963006433, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963006567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963006758, "dur":37283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963044063, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963044087, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963044163, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963044171, "dur":47741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963091930, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963091942, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963092147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963092156, "dur":19651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963111826, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963111896, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963111961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963111969, "dur":21198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963133186, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963133199, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963133280, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963133288, "dur":24716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963158027, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963158042, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963158109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963158117, "dur":60352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963218483, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963218494, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963218576, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660457963218580, "dur":211130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660457963429730, "dur":85271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457962935854, "dur":193, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457962936047, "dur":3816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457962939863, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1660457962940158, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457962940274, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457962952013, "dur":53740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1660457963005878, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963005960, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963006038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963006403, "dur":27826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963034249, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963034267, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963034363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963034371, "dur":23363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963057749, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963057759, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963057838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963057843, "dur":30762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963088619, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963088631, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963088686, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963088691, "dur":31308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963120020, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963120032, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963120118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963120126, "dur":27174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963147321, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963147333, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963147430, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963147439, "dur":128773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963276231, "dur":94189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963370576, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660457963370586, "dur":1796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660457963372406, "dur":142581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962935873, "dur":177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962936050, "dur":3809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962939860, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1660457962940346, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962940395, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962942016, "dur":7246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1660457962949317, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457962949446, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962949511, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457962949603, "dur":235187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457963184886, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457963184907, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457963185129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457963185137, "dur":32836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457963217990, "dur":68283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457963286274, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457963286399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457963286405, "dur":1049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660457963287470, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660457963287488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660457963287494, "dur":55364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660457963342876, "dur":172118, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457962935889, "dur":162, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457962936052, "dur":3813, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457962939867, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1660457962940172, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457962940287, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457962952115, "dur":258739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1660457963210951, "dur":60309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660457963271261, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457963271406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457963271414, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660457963273121, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660457963273135, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457963273213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660457963273222, "dur":203485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660457963476718, "dur":38278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457962935906, "dur":148, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457962936054, "dur":3810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457962939865, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1660457962940055, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457962940149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457962944583, "dur":7554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1660457962952214, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1660457962952344, "dur":52429, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963004781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963005459, "dur":19415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1660457963024943, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963024966, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963025022, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963025029, "dur":26400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963051449, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963051467, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963051594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963051603, "dur":104290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963155916, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963155936, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963156099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963156108, "dur":22309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963178431, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963178444, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963178501, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963178506, "dur":41973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963220497, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963220510, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963220595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660457963220604, "dur":167768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660457963388396, "dur":126594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457962935928, "dur":129, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457962936057, "dur":3816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457962939873, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1660457962940212, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457962940302, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457962955393, "dur":50347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1660457963005874, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963005890, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963005964, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963006262, "dur":18469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963024749, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963024768, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963024855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963024864, "dur":25333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963050222, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963050236, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963050334, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963050344, "dur":38216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963088576, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963088587, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963088639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963088646, "dur":37813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963126474, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963126489, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963126806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963126812, "dur":29681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963156512, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963156524, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963156606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963156612, "dur":18164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963174794, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963174805, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963174888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963174895, "dur":105559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660457963280472, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1660457963280522, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963280599, "dur":4919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":16, "ts":1660457963285537, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1660457963285555, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963285561, "dur":1307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1660457963286882, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1660457963286897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963286903, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1660457963288374, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1660457963288389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660457963288395, "dur":198906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER-PC/OneDrive/ /WOOKINGRPG/KINGSRPG_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1660457963487316, "dur":27669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660457963516929, "dur":1487, "ph":"X", "name": "ProfilerWriteOutput" }
+,
