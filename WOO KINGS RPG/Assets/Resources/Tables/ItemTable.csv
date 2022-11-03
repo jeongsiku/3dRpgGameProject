@@ -1,0 +1,23 @@
+ITEMID,ITEMREF,ITEMNAME,EQUIPTYPE,CATEGORY,CONTENTS,ATK,DEF,HP,ICON,COST
+1,Shrine1Gem,성소의 사파이어,None,Keys,첫번째 성소의 열쇠,0,0,0,shrineSapphire,0
+2,Shrine2Gem,성소의 루피,None,Keys,두번째 성소의 열쇠,0,0,0,shrineRuby,0
+3,Shrine3Gem,성소의 에메랄드,None,Keys,세번째 성소의 열쇠,0,0,0,shrineEmerald,0
+4,,도둑의 단검,Weapon,Equipable,한 손에 잡히는 빨간색 단검,10,0,0,Dagger_v2_23,10
+5,,파괴자의 도끼,Weapon,Equipable,큰 날이 날려있는 거대 도끼,20,0,0,Axe_v2_11,20
+6,,왕가의 검,Weapon,Equipable,선대 국왕님이 아끼셨던 왕가의 검,30,0,0,RoyalSword,30
+7,,도둑의 셔츠,Armour,Equipable,나들이 갈 때 입으면 좋습니다,0,10,10,Chest_03,40
+8,,기사의 갑옷,Armour,Equipable,입고 조용히 다니긴 힘들겠군요,0,20,20,Chest_16,50
+9,,왕가의 갑옷,Armour,Equipable,왕가를 상징하는 황금색 갑옷,0,30,30,Chest_70,60
+10,,당구 장갑,Gauntlet,Equipable,검지손가락은 누가 잘랐을까요,3,1,0,Gloves_05,70
+11,,가죽 장갑,Gauntlet,Equipable,손가락이 남아있는 A급 장갑,6,2,0,Gloves_01,80
+12,,황금 장갑,Gauntlet,Equipable,튼튼하지만 무겁습니다,9,3,0,Gloves_16,90
+13,,어두운 후드,Helmet,Equipable,야외에서 따뜻한 후드,0,2,5,Helm_02,100
+14,,평범한 철 헬멧,Helmet,Equipable,상당히 쓸만한 헬멧,0,4,10,Helm_12,15
+15,,검투사의 헬멧,Helmet,Equipable,왠만해선 부서지지 않습니다,0,6,15,Helm_19,25
+16,,여행자의 신발,Boots,Equipable,편안한 여행자용 신발,2,0,0,Boots_01,35
+17,,강철 부츠,Boots,Equipable,발목을 지지해주는 하이탑 부츠,4,0,0,Boots_11,45
+18,,기사단의 부츠,Boots,Equipable,멋스러움을 더한 명품 부츠,6,0,0,Boots_49,55
+19,,단단한 원형 방패,Shield,Equipable,순찰대가 애용하는 기본 방패,0,20,0,Shield_v2_30,65
+20,,튼튼한 사각 방패,Shield,Equipable,왕국기사단의 커다란 사각방패,0,30,0,Shield_v2_33,75
+21,,왕가의 카이트실드,Shield,Equipable,왕국친위대의 멋진 카이트실드,0,40,0,Shield_v2_35,85
+22,,빨간버섯 수액병,None,Quest,빨간버섯의 수액을 담은 병,0,0,0,MushroomSap,0

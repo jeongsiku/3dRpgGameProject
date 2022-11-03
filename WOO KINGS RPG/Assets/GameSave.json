@@ -1,0 +1,84 @@
+{
+    "charPosition": {
+        "x": -15.699999809265137,
+        "y": 13.071751594543457,
+        "z": 33.93000030517578
+    },
+    "currentHp": 35,
+    "maxHp": 0,
+    "currGold": 1169,
+    "equipItemInfo": [
+        -1,
+        8,
+        -1,
+        14,
+        -1,
+        -1
+    ],
+    "invenItemList": [
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        },
+        {
+            "itemID": -1,
+            "count": 0
+        }
+    ]
+}
